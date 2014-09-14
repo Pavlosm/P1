@@ -1,0 +1,16 @@
+Project 1 README file
+=====================
+
+Live URL Link for P1 
+--------------------
+http://www.p1.cpmi.ninja
+
+Short description
+-----------------
+P1 is a portfolio webpage that includes personal information and the links to
+the rest of the projects.
+
+Notes for TA
+------------
+External code was as "blueprint" to create the accordion.
+
