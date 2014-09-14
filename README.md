@@ -12,5 +12,5 @@ the rest of the projects.
 
 Notes for TA
 ------------
-External code was as "blueprint" to create the accordion.
+External code was used as "blueprint" to create the accordion.
 
