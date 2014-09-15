@@ -3,7 +3,7 @@ Project 1 README file
 
 Live URL Link for P1 
 --------------------
-http://www.p1.cpmi.ninja
+http://p1.cpmi.ninja
 
 Short description
 -----------------
